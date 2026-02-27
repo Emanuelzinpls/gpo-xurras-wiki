@@ -1,8 +1,10 @@
 {
-  "appOnline": true,
-  "minVersion": "1.0.0",
-  "latestVersion": "1.0.0",
-  "updateUrl": "https://example.com/XurrasXGPO.exe",
-  "updateSha256": "SHA256_DO_EXE_PUBLICADO",
-  "backgroundImageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  "app_online": true,
+  "min_version": "1.0.0",
+  "latest_version": "1.0.0",
+  "update_url": "https://example.com/XurrasXGPO.exe",
+  "update_sha256": "<SHA256_DO_EXE_PUBLICADO>",
+  "background_image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+  "loading_gif_url": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+  "music_url": "https://example.com/music.mp3"
 }
